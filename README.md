@@ -58,7 +58,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 <p align="center">
-  <img src="demo1.jpg" width="600"/>
+ <img src="demo1.jpg">
 </p>
 
 <p align="center">
