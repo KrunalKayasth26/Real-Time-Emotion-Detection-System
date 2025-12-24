@@ -57,8 +57,10 @@ recognition using computer vision and deep learning.
 pip install -r requirements.txt
 streamlit run app.py
 
+## 📸 Demo
+
 <p align="center">
- <img src="demo1.jpg">
+  <img src="demo1.jpg" width="600"/>
 </p>
 
 <p align="center">
