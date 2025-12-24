@@ -57,14 +57,6 @@ recognition using computer vision and deep learning.
 pip install -r requirements.txt
 streamlit run app.py
 
-## output of module :
-
-![webapp](https://github.com/user-attachments/assets/085e7f7d-990e-4c4f-93a8-0ede83ea6428)
-
-
-![output face emotion](https://github.com/user-at![output face emotion](https://github.com/user-attachments/assets/ae66c4e4-7ad4-4ae2-a2a6-a2a5e87db01a)
-tachments/assets/bbf1a900-e9e4-4bb1-a754-38d08e6bc004)
-![webapp](https://github.com/user-attachments/assets/4538cacb-37fa-42b2-a47a-6f52bfb216c4)
 
 
 
