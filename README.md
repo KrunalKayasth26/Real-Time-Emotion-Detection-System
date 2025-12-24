@@ -57,8 +57,8 @@ recognition using computer vision and deep learning.
 pip install -r requirements.txt
 streamlit run app.py
 
-![Demo](assets/demo1.jpg)
-![Demo](assets/demo2.jpg)
+![Demo](demo1.jpg)
+![Demo](demo2.jpg)
 
 
 
